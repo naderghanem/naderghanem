@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 🆖 @naderghanem
+- 👋 Hi, I’m @naderghanem
 - 🌍 From Tunisia 🇹🇳
 - 📍 Currently in the Netherlands 🇳🇱
 - 👨‍💻 Software engineer
